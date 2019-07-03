@@ -1,0 +1,12 @@
+{ 
+  "name": "My_Userscript_Name",
+  "version": "1.0.0",
+  "author": "Nomo",
+  "description": "Userscript for Testing",
+  "match": "https://google.com/*",
+  "grant": [
+    "GM_info",
+    "GM_setValue",
+    "GM_getValue"
+  ]
+}
